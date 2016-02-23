@@ -9,7 +9,7 @@
     "build": "webpack --progress --colors --config webpack.prod.config.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Tushar Jain <jain00tushar@gmail.com> (http://tushar.tech)",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.0",
@@ -37,5 +37,8 @@
     "url-loader": "^0.5.7",
     "webpack": "^1.12.13",
     "webpack-dev-server": "^1.14.1"
+  },
+  "engines": {
+    "node": "5.5.0"
   }
 }
