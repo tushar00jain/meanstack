@@ -21,6 +21,7 @@ app.all('/*', function(req, res) {
 				<script src="bundle.js"></script>\
 			</body>\
 		</html>\
+		\
 	');
 });
 
